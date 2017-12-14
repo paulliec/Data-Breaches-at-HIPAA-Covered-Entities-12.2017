@@ -1,0 +1,1 @@
+# Data-Breaches-at-HIPAA-Covered-Entities-12.2017
