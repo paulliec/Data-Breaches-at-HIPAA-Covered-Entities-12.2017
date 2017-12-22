@@ -1,12 +1,10 @@
 ---
-
-Title: "Data Breaches at HIPAA Covered Entities"
+Title: Data Breaches at HIPAA Covered Entities
 output:
+  word_document: default
+  pdf_document: default
   html_document:
-    code_folding:  hide
-    
-    
-
+    code_folding: hide
 ---
 ## Analysis of Data Breaches of HIPAA Covered Entities (CE)
 test
