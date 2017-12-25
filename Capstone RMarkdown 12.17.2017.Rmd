@@ -1,12 +1,12 @@
 ---
-Title: Data Breaches at HIPAA Covered Entities
-output:
-  html_document:
-    code_folding: hide
-  pdf_document: default
-  word_document: default
-  keep_md: true
-  
+Title: "Data Breaches at HIPAA Covered Entities"
+Author: "Paul Carson"
+date: "`r format(Sys.Date())`"
+output: github_document
+
+
+
+
 ---
 ## Analysis of Data Breaches of HIPAA Covered Entities (CE)
 

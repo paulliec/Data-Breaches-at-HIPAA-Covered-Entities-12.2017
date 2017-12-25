@@ -1,4 +1,4 @@
-2017-12-24
+2017-12-25
 
 Analysis of Data Breaches of HIPAA Covered Entities (CE)
 --------------------------------------------------------
